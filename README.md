@@ -24,14 +24,14 @@ Wakeel proposes a digital trade-enablement ecosystem connecting Egyptian manufac
 | [Decision Brief (Arabic)](docs/DECISION_BRIEF_AR.md) | Decision requested: institutional study only; no launch, contract or funding request |
 | [Research Validation Plan](docs/RESEARCH_VALIDATION_PLAN.md) | Demand intelligence, market sizing, evidence gaps and validation methodology |
 | [IP & Provenance Record](docs/IP_AND_PROVENANCE.md) | Authorship statement and limits of GitHub as evidence |
-| [International Funding Opportunities](docs/INTERNATIONAL_FUNDING_OPPORTUNITIES.md) | Verified calls, deadlines, grant amounts, applicant eligibility and Wakeel fit |
+| [International Funding Opportunities](docs/INTERNATIONAL_FUNDING_OPPORTUNITIES.md) | Dated call register, published deadlines, eligibility gates and future fit |
 | [Impact Measurement Framework](docs/IMPACT_MEASUREMENT_FRAMEWORK.md) | KPIs, attribution, inclusion, cultural benefit and environmental measurement |
 | [Evidence & Assumptions Register](docs/SOURCES_AND_ASSUMPTIONS.md) | Official data, assumptions, sources and limitations |
 | [Project Documentation Index](docs/README.md) | Complete documentation directory |
 | [Operating Model](docs/OPERATING_MODEL.md) | Roles, transaction lifecycle and legal boundaries |
-| [Financial Model](docs/FINANCIAL_MODEL.md) | Proposed commission, cost assumptions and EGP contracting |
+| [Financial Model](docs/FINANCIAL_MODEL.md) | Proposed commission and preliminary cost assumptions; no current budget or contract |
 | [Conditional Future Pilot Roadmap](docs/IMPLEMENTATION_PLAN.md) | Illustrative phases only; no current launch or operating commitment |
-| [Government & Funding Framework](docs/FUNDING_AND_GOVERNMENT_FRAMEWORK.md) | Government contracting, donor beneficiary rules and financial separation |
+| [Institutional & Future Funding Framework](docs/FUNDING_AND_GOVERNMENT_FRAMEWORK.md) | Future institutional options and donor-beneficiary separation; no current funding request |
 | [Full Funding Research Map](FUNDING_MAP.md) | Funding architecture, donor channels and grant governance |
 
 ## Official baseline
