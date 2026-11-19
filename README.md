@@ -260,6 +260,16 @@ The four individually quantified opportunities screened in `FUNDING_MAP.md` have
 
 ---
 
+## Project Documentation
+
+- [Documentation index](docs/README.md)
+- [Operating model and role boundaries](docs/OPERATING_MODEL.md)
+- [Financial model, commission split and staffing budget](docs/FINANCIAL_MODEL.md)
+- [180-day implementation plan](docs/IMPLEMENTATION_PLAN.md)
+- [Government and international funding framework](docs/FUNDING_AND_GOVERNMENT_FRAMEWORK.md)
+
+**Proposed commission:** 0.6% total — 0.5% to the marketer and 0.1% to the platform, subject to legal, regulatory and contractual approval.
+
 ## Vision
 
 To make **Wakeel Export** a leading digital gateway for participatory exporting—enabling people across Egypt to contribute to marketing Egyptian products to global markets through a simple, accessible, and organized experience. Wakeel aims to connect individuals, manufacturers, licensed exporters, financial institutions, and logistics partners in an integrated ecosystem that strengthens Egyptian product competitiveness, broadens participation in international trade, and supports export growth and foreign-currency inflows.
