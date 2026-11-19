@@ -37,6 +37,92 @@
 5. **أبحاث الأسواق:** رصد الأسواق والطلب والمنافسين والاشتراطات وفرص النفاذ بصورة مستمرة.
 6. **الأثر والشراكات الدولية:** قياس النتائج التنموية ورصد فرص المنح والتعاون الدولي والتحقق من الأهلية.
 
+
+## الأثر التنموي الشامل والقيمة العامة
+
+لا تقتصر قيمة Wakeel على تسويق المنتجات أو زيادة الصادرات؛ بل تستهدف بناء بنية رقمية مساندة للتنمية الاقتصادية والاجتماعية والثقافية والبيئية، وربط الطلب العالمي بقدرات الإنتاج والعمل المحلي. ويجب قياس كل أثر بمؤشرات موثقة، وعدم تقديم الأهداف باعتبارها نتائج تحققت بالفعل.
+
+### الأثر الاقتصادي والتجاري
+- توسيع وصول المصانع المصرية، خصوصاً المشروعات الصغيرة والمتوسطة والمنتجين في المحافظات، إلى مشترين وأسواق دولية جديدة.
+- تحويل طلبات الشراء الدولية وطلبات عروض الأسعار والمناقصات إلى فرص قابلة للمطابقة مع المنتجات المصرية.
+- بناء محرك استخبارات للطلب العالمي يرصد المنتجات المطلوبة التي لا تتوافر محلياً، ويحوّل فجوات العرض إلى تقارير فرص صناعية وتطوير منتجات ونقل تكنولوجيا واستثمار.
+- دعم تنويع الصادرات، وزيادة القيمة المضافة المحلية، وتحسين تنافسية المنتج المصري، وتعزيز تدفقات النقد الأجنبي.
+- تمكين المصانع من فهم المواصفات والأسعار والكميات والاتجاهات التي تطلبها الأسواق، وتوجيه تطوير الجودة والتعبئة والإنتاج بناءً على أدلة طلب فعلية.
+- دعم التجارة البينية الأفريقية والعربية والجنوب-جنوب، وربط الموردين المصريين بسلاسل القيمة الإقليمية والعالمية.
+
+### الأثر الاجتماعي والشمول الاقتصادي
+- إتاحة المشاركة في التسويق التصديري المستقل دون اشتراط تأسيس شركة تصدير أو امتلاك مصنع، مع بقاء التنفيذ القانوني للتصدير لدى الجهات المرخصة.
+- توسيع فرص العمل المرن والعمل الرقمي والدخل الإضافي للشباب والخريجين والباحثين عن فرص عمل والنساء والأشخاص في المحافظات والمناطق الأقل وصولاً إلى الأسواق.
+- إتاحة مسارات مشاركة تراعي الأشخاص ذوي الإعاقة والفئات الأقل تمثيلاً، وتصميم واجهات سهلة الاستخدام وتدريب رقمي مناسب.
+- دعم المجتمعات المحلية عبر ربط المنتجين والتعاونيات والجمعيات والمشروعات متناهية الصغر بالطلب التجاري، مع احترام حقوقهم وشروط المشاركة العادلة.
+- قياس الوظائف المباشرة وغير المباشرة، والدخل الإضافي، ومعدلات النشاط والاستمرار، وعدم مساواة عدد المسجلين بعدد الوظائف أو العاملين النشطين.
+
+### تمكين المرأة والمساواة الاقتصادية
+- فتح فرص للمسوقات المستقلات والنساء صاحبات المشروعات والمنتجات المنزلية والحرفية والتعاونيات النسائية.
+- دعم الوصول إلى الأسواق والتدريب على التسويق الرقمي والتفاوض والتسعير ومواصفات التصدير.
+- قياس نسبة النساء المسجلات والنشطات وصاحبات الصفقات، وقيمة المبيعات والصادرات التي ساهمن فيها، ونمو دخل المشاركات والقيادات النسائية.
+- تصميم إجراءات حماية من التمييز والتحرش والاستغلال، مع آليات شكاوى وإحالة ودعم مناسبة.
+
+### الحرف اليدوية والاقتصاد الإبداعي والتراث الثقافي
+- إبراز الحرف المصرية والمنتجات التراثية والتصميمات المحلية، وربط الحرفيين والورش والتعاونيات بالمتاجر والموزعين والمشترين الدوليين.
+- توثيق قصص المنتج وأصله ومهارات صناعته، مع احترام الملكية الفكرية والعلامات الجماعية والمؤشرات الجغرافية والمعارف التقليدية حيثما تنطبق.
+- دعم نقل المهارات بين الأجيال، والتدريب والتطوير التصميمي والتعبئة والجودة دون طمس الهوية الثقافية أو فرض تغيير غير مرغوب فيه على المنتجين.
+- ضمان موافقة المجتمعات والحرفيين على استخدام صورهم ورموزهم ومعارفهم، والتفاوض على عوائد عادلة وعدم الاستيلاء التجاري على التراث أو التصميمات التقليدية.
+
+### المجتمعات المحلية والشعوب الأصلية حيثما ينطبق
+- تمكين المجتمعات المحلية والأصلية، وفق التعريفات القانونية والسياق المحلي ومبدأ التحديد الذاتي، من المشاركة في تصميم الأنشطة التي تمس مواردها وتراثها وسبل عيشها.
+- دعم المنتجات المحلية المستدامة والتعاونيات وسلاسل القيمة التي تقودها المجتمعات، مع احترام الموافقة الحرة والمسبقة والمستنيرة عندما تكون مطلوبة.
+- تجنب تصنيف أي جماعة مصرية على أنها من الشعوب الأصلية دون أساس قانوني وسياقي وموافقة المجتمع المعني؛ ويستخدم مصطلح Indigenous Peoples and Local Communities (IPLCs) في ملفات المانحين وفق تعريف كل برنامج.
+
+### الأثر البيئي والمناخي
+- تشجيع الشحن المجمع LCL عند ملاءمته لتقليل الشحنات الجزئية غير الكفؤة، مع قياس الأثر الفعلي بدلاً من افتراض خفض الانبعاثات تلقائياً.
+- دعم المنتجين الذين يطبقون كفاءة استخدام الطاقة والمياه والمواد، والاقتصاد الدائري، وتقليل الفاقد والتغليف غير الضروري.
+- رصد فرص المنتجات الخضراء والزراعة المستدامة والمنتجات منخفضة الكربون والحلول القائمة على الطبيعة.
+- توجيه الطلبات غير المغطاة محلياً إلى دراسات جدوى صناعية تراعي كفاءة الموارد والأثر البيئي ودورة حياة المنتج.
+- تطوير مؤشرات لقياس الانبعاثات لكل وحدة شحن، ومعدل استغلال الحاويات، والفاقد، وإعادة الاستخدام، وكفاءة الطاقة والمياه لدى المنتجين المشاركين.
+
+### الأثر الدولي والدبلوماسية الاقتصادية
+- تعزيز حضور المنتجات المصرية في الأسواق الدولية وربط المصنعين والموردين بالمستوردين والغرف التجارية واتحادات الأعمال.
+- دعم التكامل التجاري الأفريقي والعربي والمتوسطي، والتعاون جنوب-جنوب، وربط الشركات المصرية بسلاسل القيمة العالمية.
+- تحويل بيانات الطلب التجاري إلى معرفة قابلة للاستخدام في الحوار الاقتصادي، وتحديد فجوات السوق وفرص التعاون والاستثمار ونقل التكنولوجيا.
+- بناء شراكات مع المؤسسات الدولية والجامعات ومراكز التدريب والجهات المانحة والمستثمرين ذوي الأثر.
+
+### الوظائف والمهارات
+- فرص مباشرة محتملة: المسوقون المستقلون، إدارة المنصة، خدمة الموردين والمشترين، تحليل الأسواق والبيانات، التحقق التجاري، التدريب، ودعم العمليات.
+- فرص غير مباشرة محتملة: الإنتاج والتعبئة والجودة والتصميم والترجمة والتخليص والشحن والتخزين والخدمات المالية والتسويقية.
+- لا تُحتسب فرصة العمل إلا وفق تعريف معلن يميز بين العمل بدوام كامل وجزئي والعمل الحر والدخل الإضافي والوظائف غير المباشرة.
+- يستهدف المشروع تسجيل 100,000 مسوق مستقل خلال السنة الأولى كهدف تعبئة ومشاركة؛ وهذا لا يعني أن جميع المسجلين سيصبحون نشطين أو سيحققون دخلاً أو صفقات.
+
+### إطار قياس الأثر
+تُبنى لوحة الأثر على خط أساس ومصادر بيانات وتكرار قياس ومسؤول تحقق لكل مؤشر، ومن أمثلتها: عدد المصانع والمنتجات المعتمدة، الطلبات الدولية المرصودة، نسبة الطلبات المطابقة، فرص الشراء التي تحولت إلى صفقات، قيمة الصادرات الإضافية المثبتة، عدد المسوقين النشطين، نسبة النساء والشباب، عدد الحرفيين والتعاونيات المستفيدة، الدخل الإضافي، الوظائف المكافئة بدوام كامل، المحافظات المستفيدة، كفاءة الشحن، والانبعاثات والفاقد لكل وحدة نشاط.
+
+## استراتيجية التمويل الدولي ونموذج صفر مخصصات مباشرة مستهدفة للدولة
+
+يستهدف Wakeel تصميم تجربة تنظيمية وتشغيلية لا تتطلب **مخصصات مالية مباشرة من الموازنة العامة**، من خلال تمويل التكاليف الإضافية المؤهلة عبر منح دولية وشراكات فنية ومساهمات عينية وتمويل ميسر أو استثمار أثر، بحسب طبيعة كل مكوّن. ويظل هذا هدفاً تمويلياً مشروطاً بالحصول على موافقات واتفاقيات تمويل فعلية، وليس ضماناً بأن كل التكاليف ستغطى أو أن الدولة لن تتحمل أي تكلفة إدارية أو تنظيمية أو عينية.
+
+### مبادئ التمويل
+1. فصل مكونات المنفعة العامة عن المصروفات التجارية الخاصة: تمول المنح فقط الأنشطة المؤهلة ذات الأثر العام، مثل بناء القدرات، الشمول، تطوير الحرف، المناخ، أبحاث الطلب، القياس والتقييم، والتجربة المجتمعية.
+2. عدم افتراض أن المنحة يمكن أن تمول شركة ربحية أو أصولها التجارية مباشرة؛ يجب أن يكون مقدم الطلب مؤهلاً، وأن تكون ملكية المخرجات والبيانات والبرمجيات وحقوق الاستخدام واضحة في اتفاقية المنحة.
+3. يمكن أن يكون مقدم الطلب أو الشريك المؤهل جامعة أو جمعية أهلية مسجلة أو مؤسسة غير ربحية أو جهة عامة أو منظمة دولية، وفق شروط كل برنامج. ويمكن للشركة المطورة أن تقدم خدمات أو تنفذ نطاقاً تعاقدياً فقط إذا سمحت قواعد المنحة والمشتريات بذلك وبأسعار وشروط عادلة وشفافة.
+4. لا يُنشأ كيان غير ربحي صوري ولا يُعاد توجيه أموال المنحة إلى نشاط ربحي بالمخالفة لشروط المانح؛ يجب أن يكون لكل شريك دور حقيقي وخبرة وحوكمة ومحاسبة مستقلة.
+5. لا يبدأ الصرف قبل توقيع اتفاقية المنحة واستيفاء شروط النفاذ والمشتريات والموافقات. ولا تُفترض أهلية المصروفات السابقة أو إمكانية استردادها لاحقاً.
+6. بعض البرامج تصرف دفعات مقدمة أو على مراحل، وبعضها يعتمد السداد مقابل المصروفات أو النتائج؛ لذلك يتطلب التمويل اللاحق بعد الصرف خطة سيولة/تمويل جسري وموافقة مكتوبة على المصروفات، ولا يجوز اعتباره مضموناً.
+7. لا تُعرض المنح المحتملة كضمان سيادي أو كتعهد من الحكومة أو كتمويل مؤكد قبل صدور خطاب موافقة أو اتفاقية نافذة.
+
+### حزم التمويل المقترحة
+- **حزمة البنية الرقمية والبيانات:** تطوير أدوات المنفعة العامة، معايير البيانات، قابلية التشغيل البيني، الأمن والخصوصية، البحث والتحليل، وقياس النتائج.
+- **حزمة التجارة والوصول للأسواق:** رصد طلبات الشراء، أبحاث الأسواق، مطابقة المنتجات، دعم المشروعات الصغيرة والمتوسطة، وتيسير التجارة.
+- **حزمة المرأة والشباب والوظائف:** التدريب الرقمي والتجاري، بناء القدرات، الإدماج الاقتصادي، وريادة الأعمال.
+- **حزمة الحرف والتراث والمجتمعات المحلية:** التوثيق، نقل المهارات، التصميم، الوصول إلى الأسواق، وتمكين التعاونيات والحرفيين.
+- **حزمة المناخ والاقتصاد الدائري:** كفاءة الموارد، الشحن الأكثر كفاءة، الإنتاج الأنظف، سلاسل القيمة المستدامة، والتنوع البيولوجي حيثما ينطبق.
+- **حزمة الابتكار الصناعي:** دراسات فجوات الطلب، تطوير المنتجات، البحث التطبيقي، الاختبار ونقل التكنولوجيا، بالشراكة مع الجامعات والمصانع.
+- **حزمة التجربة التنظيمية والحوكمة:** الدراسات القانونية والتنظيمية، قياس الأثر، تقييم مستقل، حماية المستفيدين، والتدقيق.
+
+### نموذج إثبات عدم تحميل الموازنة العامة تكاليف مباشرة
+يُرفق بطلب التجربة جدول يحدد لكل بند: التكلفة التقديرية، الجهة المنفذة، المستفيد، مصدر التمويل المستهدف، أهلية التكلفة وفق دليل المانح، توقيت الصرف، طريقة السداد، وأي مساهمة عينية حكومية. ولا يصنف البند على أنه ممول إلا بعد وجود اتفاقية نافذة أو التزام تمويلي مكتوب قابل للتحقق. ويُعرض أي دعم حكومي عيني أو وقت موظفين أو استخدام مرافق بشفافية، حتى لا يوصف المشروع خطأً بأنه بلا تكلفة اقتصادية مطلقاً.
+
+للحصر التفصيلي للمؤسسات والبرامج والفرص المفتوحة أو المستقبلية وشروط الأهلية، راجع [خريطة التمويل الدولي والفرص ذات الصلة](FUNDING_MAP.md).
+
 ## معمارية الواجهة
 
 ```mermaid
@@ -57,6 +143,11 @@ flowchart TD
     D --> O[Women Empowerment]
     D --> P[SME Export Readiness]
     D --> Q[Green Logistics]
+    C --> R[Global Demand Intelligence]
+    C --> S[Industrial Development Pipeline]
+    C --> T[Social, Cultural & Community Impact]
+    C --> U[Climate, Biodiversity & Circular Economy]
+    C --> V[Jobs, Women & Youth Inclusion]
 ```
 
 ## التقنية
@@ -91,7 +182,7 @@ The portal is a static GitHub Pages-ready prototype. It does not currently provi
 
 ## Global Grants Hub — qualification note
 
-The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, European Union, Afreximbank, GEF and AfDB) are **potential sources of programmes, technical assistance, partnerships or funding pathways**, not confirmed grant awards or verified open calls for Wakeel. Every opportunity must be checked against the current official call, country and applicant eligibility, legal applicant requirements, deadlines, co-financing, and implementation-partner rules. The website links to official institutional domains; it does not claim an active funding window.
+The institutions and instruments listed in the grants hub and [FUNDING_MAP.md](FUNDING_MAP.md) are a **screened opportunity pipeline**, not confirmed awards or automatic eligibility. The map distinguishes direct grants, competitive calls, technical assistance, concessional finance, risk-sharing and country-led funds. Each opportunity must be checked against its current official call, country and applicant eligibility, lead-applicant rules, deadlines, co-financing, procurement, reimbursement and implementation-partner requirements. A funder's existence or a relevant theme does not constitute a funding commitment.
 
 ## Important pilot and compliance boundaries
 
@@ -110,7 +201,7 @@ The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, 
 
 **Included:** Bilingual responsive UI, citizen-facing journey, illustrative contribution calculator, adjustable national-impact scenario, sample product categories, shipping-model explainer, institutional information panel, donor-category filters, and authorship notice.
 
-**Next validation gates:** Track the official 2025 export baseline and the 15% first-year project target using verified incremental transactions; validate product and supplier data; review the marketer/exporter contractual model with specialist counsel; confirm customs and LCL procedures with relevant authorities; validate banking and settlement flows with the selected bank; replace placeholder contact details; and verify current grant calls and applicant eligibility.
+**Next validation gates:** Track the official 2025 export baseline and the 15% first-year project target using verified incremental transactions; validate product and supplier data; review the marketer/exporter contractual model with specialist counsel; confirm customs and LCL procedures with relevant authorities; validate banking and settlement flows with the selected bank; establish impact baselines and independent verification; confirm eligible grant applicants and partners; and secure signed funding agreements before committing expenditure.
 
 **Enterprise customization readiness:** The interface is structured into clear content sections and isolated Vanilla JS behaviours, making it straightforward to connect approved APIs and partner systems later without committing the MVP to a framework or paid infrastructure.
 
@@ -121,6 +212,9 @@ The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, 
 - Added public marketer journey, contribution calculator, product-category examples, and LCL/Express information.
 - Updated the impact simulator to the official 2025 non-petroleum export baseline (USD 48.567B) and Wakeel’s 15% first-year target (USD 7.285B incremental; USD 55.852B illustrative total).
 - Added institutional side panel and the categorized Global Grants Hub.
+- Added the integrated economic, social, cultural, environmental, international, employment, women’s empowerment, crafts and local-community impact framework.
+- Added the donor-funded zero-direct-budget-allocation target, safeguards and funding cash-flow principles.
+- Added a dedicated international funding map distinguishing grants, technical assistance, concessional finance and eligibility restrictions.
 - Added clear prototype, legal, funding and data-verification disclaimers.
 - Updated deployment, architecture, technology and readiness documentation.
 
