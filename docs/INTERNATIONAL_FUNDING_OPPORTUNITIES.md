@@ -1,7 +1,7 @@
 # Wakeel Export — International Funding Opportunities Register
 ## سجل المنح والتمويلات الدولية والفرص المتاحة
 
-**Verification cut-off:** 19 November 2026. Programme ceilings are not Wakeel funding. An opportunity is not secured until an eligible applicant is selected, award conditions are met, an agreement is effective and funds are disbursed.
+**Verification cut-off:** 19 November 2026. This is a future opportunity map for a competent entity that may consider implementation later. No grant application or funding request is being made now. Programme ceilings are not Wakeel funding. An opportunity is not secured until an eligible applicant is selected, award conditions are met, an agreement is effective and funds are disbursed.
 
 ## 1. Executive view
 - **Commercial platform scale-up:** develoPPP Ventures Egypt, if proof of concept, first revenue, annual accounts and matching cash finance exist.
@@ -14,7 +14,7 @@
 ## 2. Current opportunities
 
 ### develoPPP Ventures — Egypt
-**Status:** Egypt window published 15 November–31 December 2026. **Support:** €100,000 non-dilutive; at least €100,000 matching cash required. For innovative, privately owned, for-profit Egyptian start-ups with proof of concept, first operating revenue, viable business/financial plan and at least one annual financial statement. Funds support local scaling; start-up formation is not eligible.  
+**Status:** Egypt window published 15 November–31 December 2026. **Support:** €100,000 non-dilutive under a matching-funds model; confirm the exact matching threshold in the current official conditions before any future application. For innovative, privately owned, for-profit Egyptian start-ups with proof of concept, first operating revenue, viable business/financial plan and at least one annual financial statement. Funds support local scaling; start-up formation is not eligible.  
 **Wakeel fit:** potentially relevant only after real pilot, first revenue and matching capital. Repository prototype alone is insufficient.  
 Official: [Current Egypt application window](https://www.developpp.de/en/application/ventures/) · [Programme requirements](https://www.developpp.de/en/funding-programme/startups/) · [Conditions PDF](https://www.developpp.de/fileadmin/04_Jetzt_bewerben/04.2_IV_Ventures/develoPPP_Ventures_-_Conditions_of_participation.pdf).
 
@@ -29,7 +29,7 @@ Official: [IKI Small Grants 2026](https://www.international-climate-initiative.c
 Official: [IKI Medium Grants 2026](https://www.international-climate-initiative.com/en/find-funding/medium-grants/medium-grants-2026/) · [IKI funding overview](https://www.international-climate-initiative.com/en/find-funding/).
 
 ### IKI Large Grants — 2026
-**Status:** listed open; deadline 9 February 2027. **Grant:** €5m–€15m per selected project; up to 8 years; multi-organisation/company consortium.  
+**Status:** open; deadline 9 February 2027, 14:00 CET. **Grant:** €7m–€15m per selected project; up to 8 years; multi-organisation/company consortium.  
 **Wakeel fit:** low priority, not a start-up grant; consider only in experienced consortium for major climate/biodiversity programme.  
 Official: [IKI funding overview](https://www.international-climate-initiative.com/en/find-funding/).
 
@@ -44,9 +44,8 @@ Official: [CDTI call notice](https://www.cdti.es/en/noticias/abierta-11a-convoca
 Official: [BIOECONOMY GIANTS call](https://bioeconomygiants.com/open-call-2/) · [Eligibility summary](https://innovationbridge.info/ibportal/content/bioeconomy-giants-open-call-ii-scaling-and-piloting-high-value-bio-based-products).
 
 ### STDF–China Research Fund — Call 9
-**Status:** reported open; deadline 15 December 2026 at 14:00 Cairo time. Verify live STDF portal and full call before action. **Published Egyptian-side ceilings:** up to EGP 3m for eligible joint research in water, agriculture, AI, ICT and advanced manufacturing; up to EGP 5m for specified strategic renewable-energy/quantum projects with industrial partner; up to 24 months.  
-**Wakeel fit:** genuine Egyptian–Chinese research collaboration only; not general platform or commercial operating finance.  
-Official portal: [STDF open grants](https://stdf.eg/web/grants/open). Public notice: [Ahram Gate summary](https://gate.ahram.org.eg/News/5981770.aspx).
+**Status:** not included in the verified active shortlist. A current primary-source call notice and full eligibility document were not independently confirmed at the research cut-off. Do not rely on the previously reported 15 December 2026 deadline or funding ceilings until STDF publishes or confirms the current call.  
+**Wakeel fit:** cannot be assessed until the official call is verified.
 
 ## 3. Strategic routes
 **Horizon Europe / PRIMA:** Egypt became associated to Horizon Europe on 22 October 2025. Eligible Egyptian organisations may participate under applicable calls; PRIMA covers water, farming systems and food value chains. Each call has its own consortium, TRL, applicant and deadline. Potential components include applied demand analytics, industrial digitalisation, sustainable food chains, traceability and green logistics. This is not unrestricted operating finance.
@@ -87,13 +86,14 @@ For every call document applicant, beneficiary, partner roles, country, theme, m
 
 **Grant funding evidenced as secured for Wakeel at this cut-off: zero.** Do not aggregate unrelated programme ceilings into a project forecast.
 
-## 6. Immediate priorities
-1. By 3 Dec 2026: decide if a genuine STDF–CDTI consortium can be assembled.
-2. By 31 Dec 2026: screen develoPPP only if first revenue, annual accounts and matching capital exist.
-3. By 31 Dec 2026: assess BIOECONOMY GIANTS only for actual bio-based pilot with eligible producer(s) and TRL 6–8.
-4. By 8 Jan 2027: assess IKI Small Grants only through eligible applicant and non-profit nature-based project.
-5. By 12 Jan 2027: assess IKI Medium only with eligible German lead and Egyptian partner.
-6. Re-check official calls before submission.
+## 6. Future-use guidance — no current application
+هذه المواعيد لا تنشئ تكليفاً بالتقديم ولا تمثل توصية بتقديم طلب باسم صاحب الفكرة. إذا تبنت جهة مؤهلة المبادرة مستقبلاً وقررت دراسة هذه المسارات، تعيد التحقق من الدعوات والأهلية والمستفيد القانوني والأنشطة والتكاليف والمواعيد من المصادر الرسمية قبل اتخاذ أي إجراء.
+
+- STDF–CDTI: deadline published as 3 December 2026; only relevant to a genuine R&D consortium.
+- develoPPP Ventures: current Egypt window published to 31 December 2026; requires an operating company, proof of concept, first revenue and matching finance.
+- BIOECONOMY GIANTS: current call published to 31 December 2026; only a qualifying bio-based pilot and eligible consortium.
+- IKI Small Grants: current call published to 8 January 2027; only an eligible local organisation and qualifying non-profit nature-based project.
+- IKI Medium Grants: current call published to 12 January 2027; requires eligible Germany-based lead and local partner(s).
 
 ## 7. Disclaimer
 Statuses/deadlines reflect sources available 19 November 2026. Full official call guidelines control. This is preliminary research, not legal, tax, accounting or eligibility advice. Inclusion does not imply endorsement, selection, partnership or funding.
