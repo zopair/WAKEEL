@@ -1,9 +1,10 @@
-# Wakeel Export — Comprehensive Feasibility & Impact Assessment
+# Wakeel Export — Preliminary Feasibility & Impact Assessment
 ## دراسة الجدوى الاقتصادية والاجتماعية والثقافية والبيئية والدولية
 
 **Research cut-off:** 19 November 2026  
 **Stage:** Proposal / prototype. No operating history, verified transactions, grant awards or measured impacts are claimed.  
-**Status:** Preliminary evidence-led desk assessment, not a final bankable feasibility study, statutory environmental assessment, legal opinion or government-approved appraisal.
+**Status:** Preliminary evidence-led desk assessment, not a completed comprehensive feasibility study, bankable business plan, statutory environmental assessment, legal opinion or government-approved appraisal. Primary buyer/supplier research, product-market sizing, local legal opinion and cost quotations remain outstanding.
+**Current scope:** research, documentation and decision presentation only. No operating launch, hiring, contracting, funding request or grant application is proposed at this stage.
 
 ## 1. Executive assessment
 
@@ -25,7 +26,7 @@ The available evidence does not establish Wakeel's obtainable market share, acqu
 | Environmental | Potential only if measured | Shipment emissions, load factors, packaging and supplier data |
 | International | Multiple cooperation routes | Eligible applicant, partners and donor-specific proposals |
 
-**Recommendation:** proceed to scoped validation and regulatory design, not national rollout. Require written legal clearance, operating partners, verified demand and a reviewable pilot budget before launch.
+**Recommendation:** consider only a bounded institutional review of the proposal. Any later market validation, legal review or detailed appraisal should occur only if the competent decision-maker accepts the concept for further study. No launch or national rollout is recommended on the present evidence.
 
 ## 2. Operating model and theory of change
 
@@ -194,7 +195,7 @@ Previously proposed ranges (50–100 factories, 5,000–10,000 registered market
 
 ## 12. Conclusion
 
-**Current status: conditionally promising, not yet proven bankable.** Proceed with legal validation, buyer/supplier discovery in selected product-market cells, bottom-up TAM/SAM/SOM, EGP five-year model after observed inputs, social/cultural/environmental baselines, donor-specific work packages and controlled pilot.
+**Current status: strategically plausible but not proven feasible or bankable.** The next research phase, if authorised by the competent decision-maker, should validate buyer/supplier demand in selected product-market cells, calculate bottom-up TAM/SAM/SOM, obtain specialist legal analysis, rebuild the EGP financial model from verified inputs, and establish social/cultural/environmental baselines. A controlled pilot is a separate future decision, not part of the present request.
 
 Do not make national-scale commitments, guaranteed-income claims, export attribution, carbon claims or grant-funded operating-budget claims before evidence exists.
 

@@ -1,23 +1,22 @@
 # WAKEEL — International Funding & Grant Opportunity Map
 ## خريطة المنح والتمويل الدولي والشراكات التنموية
 
-**Research cut-off:** 19 November 2026. No grant award or disbursement is evidenced for Wakeel. Programme ceilings are not project commitments.
+**Research cut-off:** 19 November 2026. This is a reference map for a possible future implementing entity only. No grant application or funding request is being made now. No grant award or disbursement is evidenced for Wakeel.
 
 For current call status, deadlines, amounts and eligibility, see [International Funding Opportunities](docs/INTERNATIONAL_FUNDING_OPPORTUNITIES.md).
 
 ## 1. Funding strategy
 Separate work packages: commercial platform growth (eligible for-profit instruments only after proof of concept and matching finance); women/youth/digital skills (eligible training lead); crafts/local livelihoods (artisan-led with consent and fair benefit-sharing); climate/biodiversity (measurable non-profit work packages); applied industrial R&D (research/industrial partners); circular bio-based value chains (eligible primary producers).
 
-## 2. Current opportunities at cut-off
+## 2. Published calls at the research cut-off
 | Programme | Published amount | Status / deadline | Main eligibility gate |
 |---|---:|---|---|
-| develoPPP Ventures Egypt | €100,000 + at least €100,000 matching cash | Open 15 Nov–31 Dec 2026 | For-profit Egyptian start-up, first revenue, accounts, proof of concept |
+| develoPPP Ventures Egypt | €100,000 under matching-funds model; threshold per official conditions | Open 15 Nov–31 Dec 2026 | For-profit Egyptian start-up, first revenue, accounts, proof of concept |
 | IKI Small Grants 2026 | €60,000–€200,000 | Open to 8 Jan 2027 | Eligible local applicant, non-profit project and operating/revenue tests |
 | IKI Medium Grants 2026 | €300,000–€800,000 | Open to 12 Jan 2027 | Germany-based eligible lead + local partner; green skills/coastal theme |
-| IKI Large Grants 2026 | €5m–€15m | Listed open; deadline 9 Feb 2027 | Experienced consortium and major climate/biodiversity programme |
+| IKI Large Grants 2026 | €7m–€15m | Listed open; deadline 9 Feb 2027 | Experienced consortium and major climate/biodiversity programme |
 | STDF–CDTI Egypt-Spain Call 11 | Up to €150,000 Egyptian side | Open; Phase I deadline 3 Dec 2026 | Egyptian research institution + Egyptian and Spanish industrial partners |
 | BIOECONOMY GIANTS Open Call II | Up to €70,000/project; €60,000/entity cap | Open to 31 Dec 2026 | 2–4 eligible entities, primary producer, bio-based pilot TRL 6–8 |
-| STDF–China Research Fund Call 9 | Up to EGP 3m; selected projects up to EGP 5m | Reported open to 15 Dec 2026 | Eligible Egyptian–Chinese research collaboration |
 
 Do not add these amounts as Wakeel's funding pipeline. Each call has distinct purpose, applicant, matching and selection rules.
 
@@ -30,10 +29,10 @@ Do not add these amounts as Wakeel's funding pipeline. Each call has distinct pu
 
 National financing totals and public tenders are not Wakeel funding.
 
-## 4. Two financial tracks
-**Commercial execution contract:** a competent entity may procure defined work from the execution company. Proposed consideration is in EGP under contract, milestones, tax treatment, payment schedule and lawful funding source. An advance may be negotiated after signature and payment conditions. This payment does not depend on grant award. If government pays from public budget, this is public expenditure, not zero-cost to the State.
+## 4. Potential future financial arrangements
+**Any future execution contract:** only if a competent entity later decides to procure a defined service, a separate lawful procurement and contract may set consideration in EGP, milestones, taxes, payment schedule and funding source. No contract, advance or payment is requested now. If government pays from public budget, this is public expenditure, not zero-cost to the State.
 
-**International grants:** restricted resources under each award. The legal beneficiary may be government, university, non-profit, eligible company or consortium. Funds do not automatically become treasury revenue or company income. Subcontracts, transfers, cost recovery, IP/data ownership and onward grants must be permitted by the donor agreement.
+**Potential international grants in a later phase:** restricted resources under each award. The legal beneficiary may be government, university, non-profit, eligible company or consortium. Funds do not automatically become treasury revenue or company income. Subcontracts, transfers, cost recovery, IP/data ownership and onward grants must be permitted by the donor agreement.
 
 ## 5. Funding recognition
 | Evidence | Permitted statement |
