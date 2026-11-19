@@ -243,6 +243,30 @@ To make **Wakeel Export** a leading digital gateway for participatory exportingâ
 
 To empower independent marketers to help develop Egyptian exports through an accessible digital platform for discovering products and market opportunities, while licensed export entities and authorized partners remain responsible for the regulated execution of export, collection, settlement, and shipping activities.
 
+
+## Development Impact & Donor-Financing Framework
+
+Wakeel is designed as a public-benefit trade-enablement ecosystem, not only a product-marketing directory. Its intended contributions include:
+
+- **Economic and trade impact:** market access for Egyptian manufacturers and SMEs; verified buyer-demand intelligence; export diversification; foreign-currency generation; and evidence-led industrial upgrading where recurring global demand is not currently met by local supply.
+- **Social inclusion:** accessible independent marketing opportunities, flexible income pathways, local value-chain participation, and improved access for youth, women, underserved governorates and persons with disabilities.
+- **Womenâ€™s economic empowerment:** participation as independent marketers and support for women-owned manufacturers, cooperatives and craft enterprises, measured through active participation, transactions and verified income.
+- **Cultural heritage and crafts:** international market access for Egyptian handicrafts and creative products, skills transmission, fair benefit-sharing, and protection of traditional knowledge and community intellectual property.
+- **Local and Indigenous Peoples and Communities (IPLCs):** community-led participation, local livelihoods and nature-positive value chains where relevant, respecting self-identification, applicable definitions, consent and community safeguards.
+- **Environmental and climate impact:** measured logistics efficiency, resource efficiency, waste reduction, circular production, sustainable agriculture and biodiversity-related opportunities; environmental benefits will be measured, not presumed.
+- **International cooperation:** stronger links with importers, chambers of commerce, global value chains, development partners, universities and regional trade networks.
+- **Jobs and skills:** potential direct and indirect work in marketing, production, packaging, quality, design, translation, logistics, market intelligence and training. Registrations are not counted as jobs; active work and income are measured separately.
+
+The first-year mobilisation objective is **100,000 independent marketer registrations**. This is a recruitment target, not a claim that all registrants will be active or earn income. The impact framework distinguishes registrations, active marketers, first completed transactions, verified incremental exports, jobs and additional income.
+
+### Zero-direct-public-budget target
+
+The pilot is designed to seek **no direct appropriation from the Egyptian State budget for incremental pilot costs**, by combining international grants, technical assistance, private co-financing and development partnerships. This is a financing objective conditional on signed awards and eligible cost coverage, not a guarantee. Regulatory oversight, staff time and in-kind public contributions must be disclosed transparently.
+
+Grant-funded public-benefit work packages must be separated from the platform company's commercial activities. Applicant eligibility, procurement, ownership of software/data/results, matching finance, reimbursement terms, audit and post-grant sustainability must be agreed before expenditure. No grant is treated as secured until a binding award and effective agreement exist.
+
+See [FUNDING_MAP.md](FUNDING_MAP.md) for the screened donor pipeline, live calls, applicant restrictions, funding instruments and cash-flow safeguards.
+
 ## Intellectual Property & Authorship
 
 **Engineer / Project Author:**  
