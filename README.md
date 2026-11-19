@@ -30,7 +30,7 @@ Wakeel proposes a digital trade-enablement ecosystem connecting Egyptian manufac
 | [Project Documentation Index](docs/README.md) | Complete documentation directory |
 | [Operating Model](docs/OPERATING_MODEL.md) | Roles, transaction lifecycle and legal boundaries |
 | [Financial Model](docs/FINANCIAL_MODEL.md) | Proposed commission, cost assumptions and EGP contracting |
-| [180-Day Pilot Plan](docs/IMPLEMENTATION_PLAN.md) | Proposed phases, readiness gates and pilot targets |
+| [Conditional Future Pilot Roadmap](docs/IMPLEMENTATION_PLAN.md) | Illustrative phases only; no current launch or operating commitment |
 | [Government & Funding Framework](docs/FUNDING_AND_GOVERNMENT_FRAMEWORK.md) | Government contracting, donor beneficiary rules and financial separation |
 | [Full Funding Research Map](FUNDING_MAP.md) | Funding architecture, donor channels and grant governance |
 
