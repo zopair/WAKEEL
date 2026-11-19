@@ -39,16 +39,23 @@ Egypt's non-oil exports reached **USD 48.567bn in 2025**, up from USD 41.507bn i
 
 The 15% scenario implies approximately USD 7.285bn in additional national non-oil exports arithmetically. It is not guaranteed or automatically attributable to Wakeel.
 
+## Interactive WAKEEL Lite Prototype
+- [Open the bilingual interactive prototype](prototype/index.html) — Arabic RTL / English LTR, animated Egyptian flag, demand discovery, supplier matching, simulated deal lifecycle and commission calculator.
+- Mobile-first Lite PWA with an offline app-shell cache after the first successful visit.
+- Silent 32-second product walkthrough video is supplied separately with this prototype delivery.
+- All displayed buyers, suppliers, metrics and transactions are illustrative. No live banking, customs, KYC, export or logistics integrations are claimed.
+- Native HTML/CSS/JavaScript only; no paid runtime services or external runtime libraries.
+
 ## Prototype and technology
-- Single-page responsive bilingual interface (Arabic RTL / English LTR).
-- Static front-end prototype; no backend transaction processing is represented as live.
+- Responsive bilingual interface (Arabic RTL / English LTR).
+- Static front-end demonstration; no backend transaction processing is represented as live.
 - No paid runtime service is required for the static demonstration.
 
 ## Quick start
 1. Clone or download this repository.
-2. Open index.html in a modern browser.
-3. Switch languages and test the illustrative calculator and interface.
-No credentials, API keys or paid services are required for the static prototype.
+2. Open `prototype/index.html` in a modern browser (or serve the repository over localhost/HTTPS for PWA installation and offline caching).
+3. Switch languages, search demand leads, simulate supplier matching and progress deals, and test the commission calculator.
+No credentials, API keys, server, or paid services are required for the static prototype.
 
 ## Deployment
 The repository is structured for static hosting such as GitHub Pages. Hosting is not active until repository Pages settings and a live deployment are verified. The interface is a demonstration, not an operational export platform.
@@ -63,6 +70,11 @@ The repository is structured for static hosting such as GitHub Pages. Hosting is
 | Bank / exporter / logistics integrations | Not implemented or confirmed |
 | Grant funding | No award or disbursement evidenced |
 | Enterprise customization | Starting point only; production requirements need discovery |
+
+## Changelog — 20 November 2026
+- Added a bilingual interactive mobile-first WAKEEL Lite PWA prototype and silent walkthrough video deliverable.
+- Added local demo flows for demand discovery, supplier matching, deal progression and commission simulation.
+- Added lightweight service-worker offline caching and prototype smoke tests.
 
 ## Changelog — 19 November 2026
 - Replaced long project narrative with linked documentation.
