@@ -7,7 +7,7 @@ GitHub Pages path: `/prototype/` (once deployment is confirmed), or open `index.
 
 ## Demonstrated interactions
 - Arabic RTL / English LTR language switching.
-- Animated Egyptian flag using CSS only.
+- Animated Egyptian flag using CSS only, including a stylized golden Eagle of Saladin emblem.
 - Demo demand leads, buyer search, status filters and simulated RFQ creation.
 - Supplier matching creates a simulated deal.
 - Deal lifecycle: matching → quoted → confirmed → shipped → completed.
