@@ -8,7 +8,7 @@ For current call status, deadlines, amounts and eligibility, see [International 
 ## 1. Funding strategy
 Separate work packages: commercial platform growth (eligible for-profit instruments only after proof of concept and matching finance); women/youth/digital skills (eligible training lead); crafts/local livelihoods (artisan-led with consent and fair benefit-sharing); climate/biodiversity (measurable non-profit work packages); applied industrial R&D (research/industrial partners); circular bio-based value chains (eligible primary producers).
 
-## 2. Current opportunities at cut-off
+## 2. Published calls at the research cut-off
 | Programme | Published amount | Status / deadline | Main eligibility gate |
 |---|---:|---|---|
 | develoPPP Ventures Egypt | €100,000 under matching-funds model; threshold per official conditions | Open 15 Nov–31 Dec 2026 | For-profit Egyptian start-up, first revenue, accounts, proof of concept |
