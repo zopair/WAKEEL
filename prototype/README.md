@@ -39,3 +39,5 @@ Native HTML/CSS/JavaScript only; no runtime framework, paid API, server, databas
 ## Automatic hosting
 
 GitHub Actions deploys this directory to GitHub Pages on changes to `prototype/` or the deployment workflow. The public URL is confirmed only after the deployment workflow completes successfully.
+
+Deployment trigger refreshed after the workflow was installed.
