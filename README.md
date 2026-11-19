@@ -1,5 +1,7 @@
 # WAKEEL EXPORT
-## الوكالة الوطنية للتصدير التشاركي
+## مبادرة وكيل المستقلة المقترحة للتصدير التشاركي
+
+Wakeel is an independent project proposal, not a government agency or official government portal.
 
 **من المنتج المصري إلى الأسواق العالمية، بمشاركة الجميع.**
 
