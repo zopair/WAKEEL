@@ -34,3 +34,8 @@ Native HTML/CSS/JavaScript only; no runtime framework, paid API, server, databas
 **Status:** Proof of Concept — not an operational export platform.
 
 **Authorship:** Aly Hussein Zopair (علي حسين زوبير ALY HUSSEIN ZOPAIR)
+
+
+## Automatic hosting
+
+GitHub Actions deploys this directory to GitHub Pages on changes to `prototype/` or the deployment workflow. The public URL is confirmed only after the deployment workflow completes successfully.
