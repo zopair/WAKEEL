@@ -24,7 +24,7 @@
 - **بوابة جماهيرية للمسوق:** رحلة مشاركة مبسطة، أربع خطوات، حاسبة توضيحية للمقابل المقترح بنسبة 0.5%، وكتالوج استرشادي.
 - **الكتالوج:** أمثلة لفئات منتجات مصرية؛ لا تظهر كعروض فعلية إلا بعد اعتماد المورد والتحقق من المستندات والمواصفات.
 - **اللوجستيات:** شرح LCL Consolidation وExpress، دون اختلاق حجوزات أو مواعيد شحن فعلية.
-- **محاكي الأثر القومي:** سيناريو حسابي يستند إلى خط أساس تخطيطي قدره 45 مليار دولار وسيناريو نمو قابل للتعديل. يجب توثيق رقم الأساس وسنته من مصدر حكومي رسمي قبل استخدامه كإحصاء.
+- **محاكي الأثر القومي:** يعتمد على أحدث إجمالي سنوي رسمي متاح للصادرات المصرية غير البترولية لعام 2025: **48.567 مليار دولار**. مستهدف السنة الأولى للمبادرة هو المساهمة في زيادة قدرها **15%** (نحو **7.285 مليار دولار**) بما ينتج عنه إجمالي حسابي افتراضي **55.852 مليار دولار**. المصدر: بيان وزارة الاستثمار والتجارة الخارجية والهيئة العامة للرقابة على الصادرات والواردات بتاريخ 27 يناير 2026. هذا مستهدف للمبادرة وليس توقعاً حكومياً أو ضماناً للنتائج؛ ويجب قياس مساهمة Wakeel من الصفقات الإضافية المثبتة والمنسوبة للمنظومة.
 - **بوابة المعلومات المؤسسية:** الرؤية، الامتثال القانوني، التكامل البرمجي، أبحاث الأسواق والمنافسين، الأثر المجتمعي، تمكين المرأة ومؤشرات التنمية.
 - **Wakeel Global Grants Hub:** خريطة أولية للجهات الدولية ذات الصلة المحتملة، مع روابط مواقعها الرسمية وتصنيفها حسب محور التنمية.
 
@@ -99,7 +99,7 @@ The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, 
 - Export execution, export documentation, foreign-currency collection, settlement and shipping must be performed by appropriately licensed and authorized entities under applicable rules and agreements.
 - The proposed 0.5% contribution amount is illustrative and subject to approved contracts, proof of contribution, and legal and tax treatment.
 - LCL is presented as physical cargo consolidation with separate legal and customs records per exporter, subject to the approved procedures and relevant authorities.
-- The USD 45 billion baseline and 5% scenario are planning inputs, not verified current official statistics or guaranteed national outcomes.
+- The simulator uses the official 2025 non-petroleum export baseline of USD 48.567 billion, reported by the Ministry of Investment and Foreign Trade / GOEIC on 27 January 2026. Wakeel’s first-year target is to contribute to a 15% increase (approximately USD 7.285 billion), implying an illustrative total of USD 55.852 billion. This is a project target, not a government forecast or guaranteed outcome; Wakeel’s contribution must be measured through verified incremental transactions attributable to the platform.
 - Product cards, shipping cadence and participant figures are illustrative until connected to verified suppliers and service providers.
 - The grants hub is a research and opportunity-mapping concept; no funding or eligibility is guaranteed.
 - This is an independent initiative concept submitted for consideration by the TradeTech Sandbox. The site is not an official government portal and does not imply government endorsement or approval.
@@ -110,7 +110,7 @@ The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, 
 
 **Included:** Bilingual responsive UI, citizen-facing journey, illustrative contribution calculator, adjustable national-impact scenario, sample product categories, shipping-model explainer, institutional information panel, donor-category filters, and authorship notice.
 
-**Next validation gates:** Confirm the official export baseline and reference year; validate product and supplier data; review the marketer/exporter contractual model with specialist counsel; confirm customs and LCL procedures with relevant authorities; validate banking and settlement flows with the selected bank; replace placeholder contact details; and verify current grant calls and applicant eligibility.
+**Next validation gates:** Track the official 2025 export baseline and the 15% first-year project target using verified incremental transactions; validate product and supplier data; review the marketer/exporter contractual model with specialist counsel; confirm customs and LCL procedures with relevant authorities; validate banking and settlement flows with the selected bank; replace placeholder contact details; and verify current grant calls and applicant eligibility.
 
 **Enterprise customization readiness:** The interface is structured into clear content sections and isolated Vanilla JS behaviours, making it straightforward to connect approved APIs and partner systems later without committing the MVP to a framework or paid infrastructure.
 
@@ -119,7 +119,7 @@ The listed institutions (World Bank Group, IFC, GIZ, UNDP, ILO, UN Women, EBRD, 
 ### 2026-11-19
 - Added the first bilingual Wakeel Export portal in `index.html`.
 - Added public marketer journey, contribution calculator, product-category examples, and LCL/Express information.
-- Added adjustable export-growth and community-participation scenario simulator.
+- Updated the impact simulator to the official 2025 non-petroleum export baseline (USD 48.567B) and Wakeel’s 15% first-year target (USD 7.285B incremental; USD 55.852B illustrative total).
 - Added institutional side panel and the categorized Global Grants Hub.
 - Added clear prototype, legal, funding and data-verification disclaimers.
 - Updated deployment, architecture, technology and readiness documentation.
