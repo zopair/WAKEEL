@@ -3,7 +3,8 @@
 
 **Research cut-off:** 19 November 2026  
 **Stage:** Proposal / prototype. No operating history, verified transactions, grant awards or measured impacts are claimed.  
-**Status:** Preliminary evidence-led desk assessment, not a completed comprehensive feasibility study, bankable business plan, statutory environmental assessment, legal opinion or government-approved appraisal. Primary buyer/supplier research, product-market sizing, local legal opinion and cost quotations remain outstanding.\n**Current scope:** research, documentation and decision presentation only. No operating launch, hiring, contracting, funding request or grant application is proposed at this stage.
+**Status:** Preliminary evidence-led desk assessment, not a completed comprehensive feasibility study, bankable business plan, statutory environmental assessment, legal opinion or government-approved appraisal. Primary buyer/supplier research, product-market sizing, local legal opinion and cost quotations remain outstanding.
+**Current scope:** research, documentation and decision presentation only. No operating launch, hiring, contracting, funding request or grant application is proposed at this stage.
 
 ## 1. Executive assessment
 
