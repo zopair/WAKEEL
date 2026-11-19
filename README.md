@@ -220,6 +220,21 @@ The institutions and instruments listed in the grants hub and [FUNDING_MAP.md](F
 
 ---
 
+
+### Egypt's national development-finance ecosystem
+
+Wakeel's funding strategy will use the Ministry of Planning, Economic Development & International Cooperation's existing channels:
+- [HAFIZ — Hub for Advisory, Finance & Investment for Enterprises](https://privatesector.moic.gov.eg/en): a national gateway to development-partner financing, technical assistance, advisory services, calls and tenders. Its live portal (19 November 2026) displays USD 17bn in private-sector ODA financing since 2020, 661 calls/opportunities, 4,100 tenders and 189 deals. These are national platform indicators, not funds available to Wakeel.
+- [Partnerships for Sustainable Development](https://mped.gov.eg/InitiativeDevelopment?formType=Project&lang=en): alignment and partnership channel for government, private sector, civil society and development partners.
+- [Regional Development Partnerships](https://mped.gov.eg/RegionalDevelopmentPartnerships?lang=en): local implementation and partner discovery for governorates, cooperatives, NGOs, universities and local businesses.
+- [NWFE](https://moic.gov.eg/page/nwfe): a national climate-finance platform relevant indirectly to eligible green manufacturers; its national financing totals are not Wakeel funding.
+
+The Ministry's 2025 reporting cites approximately USD 2.9bn in concessional private-sector financing and nearly USD 300m in development grants during 2025. These are national totals and are not counted as Wakeel's addressable funding.
+
+### Indicative quantified funding pipeline
+
+The four individually quantified opportunities screened in `FUNDING_MAP.md` have a **gross programme envelope of EUR 610,000–1,250,000**: develoPPP Ventures (EUR 100,000 matching co-financing), IKI Small Grants (EUR 60,000–200,000), IKI Medium Grants (EUR 300,000–800,000), and the Egyptian-Spanish STDF call (up to EUR 150,000 for the Egyptian side). This is a sum of programme limits, not a forecast or award. Each has distinct applicant and work-package rules; develoPPP requires matching capital, and the IKI/STDF routes need eligible non-profit, research or consortium applicants. Secured funding remains **EUR 0** until effective award agreements are signed.
+
 ## Intellectual Property & Authorship | الملكية الفكرية وحقوق التأليف
 
 **Concept, Vision, and Project Authorship:**
