@@ -20,7 +20,11 @@ Wakeel proposes a digital trade-enablement ecosystem connecting Egyptian manufac
 | Document | Details |
 |---|---|
 | [Preliminary Feasibility Assessment](docs/FEASIBILITY_STUDY.md) | Evidence-led desk assessment; primary validation remains outstanding |
-| [Review Report](docs/REVIEW_REPORT_2026-11-19.md) | Findings, completed documentation changes and outstanding evidence gaps |\n| [Decision Brief (Arabic)](docs/DECISION_BRIEF_AR.md) | Decision requested: institutional study only; no launch, contract or funding request |\n| [Research Validation Plan](docs/RESEARCH_VALIDATION_PLAN.md) | Demand intelligence, market sizing, evidence gaps and validation methodology |\n| [IP & Provenance Record](docs/IP_AND_PROVENANCE.md) | Authorship statement and limits of GitHub as evidence |\n| [International Funding Opportunities](docs/INTERNATIONAL_FUNDING_OPPORTUNITIES.md) | Verified calls, deadlines, grant amounts, applicant eligibility and Wakeel fit |
+| [Review Report](docs/REVIEW_REPORT_2026-11-19.md) | Findings, completed documentation changes and outstanding evidence gaps |
+| [Decision Brief (Arabic)](docs/DECISION_BRIEF_AR.md) | Decision requested: institutional study only; no launch, contract or funding request |
+| [Research Validation Plan](docs/RESEARCH_VALIDATION_PLAN.md) | Demand intelligence, market sizing, evidence gaps and validation methodology |
+| [IP & Provenance Record](docs/IP_AND_PROVENANCE.md) | Authorship statement and limits of GitHub as evidence |
+| [International Funding Opportunities](docs/INTERNATIONAL_FUNDING_OPPORTUNITIES.md) | Verified calls, deadlines, grant amounts, applicant eligibility and Wakeel fit |
 | [Impact Measurement Framework](docs/IMPACT_MEASUREMENT_FRAMEWORK.md) | KPIs, attribution, inclusion, cultural benefit and environmental measurement |
 | [Evidence & Assumptions Register](docs/SOURCES_AND_ASSUMPTIONS.md) | Official data, assumptions, sources and limitations |
 | [Project Documentation Index](docs/README.md) | Complete documentation directory |
@@ -62,7 +66,9 @@ The repository is structured for static hosting such as GitHub Pages. Hosting is
 
 ## Changelog — 19 November 2026
 - Replaced long project narrative with linked documentation.
-- Added preliminary feasibility, impact and evidence-validation assessment.\n- Added an Arabic decision brief requesting institutional study only.\n- Added authorship/provenance guidance; GitHub is not represented as legal registration.
+- Added preliminary feasibility, impact and evidence-validation assessment.
+- Added an Arabic decision brief requesting institutional study only.
+- Added authorship/provenance guidance; GitHub is not represented as legal registration.
 - Added date-stamped international funding register.
 - Added KPI, attribution, evidence and assumptions registers.
 - Reframed unverified outcomes as targets, assumptions or scenarios.
