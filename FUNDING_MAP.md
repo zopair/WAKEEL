@@ -118,6 +118,84 @@ All parties, ownership of outputs, intellectual property, data access, procureme
 
 ---
 
+
+## 3A. Egypt Ministry of Planning, Economic Development & International Cooperation — national access routes
+
+The Ministry's ecosystem should be treated as a primary national access and coordination route for Wakeel, not as a single grant fund. Its portals connect businesses, government, civil society, universities and development partners to financing services, technical assistance, procurement notices and partnership opportunities.
+
+### A. HAFIZ — Hub for Advisory, Finance & Investment for Enterprises
+
+**Official portal:** https://privatesector.moic.gov.eg/en
+
+HAFIZ is the first national platform to screen for Wakeel's company-level financing and technical-assistance needs. The live portal, reviewed on 19 November 2026, displays:
+- **USD 17 billion** in ODA financing to the private sector since 2020.
+- **661 calls and opportunities**.
+- **4,100 tenders** in Egypt and internationally.
+- **189 deals** since 2020.
+
+The Ministry's 2025 reporting also described more than 90 financial and technical services from 44 development partners, more than 700 companies that benefited, and an expanded tender/initiative database. A January 2026 Ministry report cited approximately 41,000 private-sector users/entrepreneurs and more than 2,200 funded tenders and initiatives across Egypt and 80+ countries. These are different platform snapshots and counters; they must not be added together or treated as cash available to Wakeel. The live portal's tender count includes procurement opportunities, not only grants. [HAFIZ live portal](https://privatesector.moic.gov.eg/en) · [Ministry 2025 results](https://mped.gov.eg/singlenews?id=6872) · [Ministry platform update](https://mped.gov.eg/singlenews?id=6351&lang=en).
+
+**Wakeel use cases:**
+1. Register and profile the eligible legal applicant(s), manufacturer partners and consortium members.
+2. Search HAFIZ by sector, instrument, geography, beneficiary type and partner.
+3. Screen finance services separately from grants, technical assistance, credit lines, guarantees and procurement tenders.
+4. Add each relevant call to Wakeel's funding tracker with the original call URL, deadline, applicant type, eligible costs, co-financing, ticket size and contact route.
+5. Use the platform's partnership and advisory functions to identify an eligible lead applicant or implementation partner.
+
+HAFIZ's USD 17bn headline is **historical national private-sector financing mobilised since 2020**, not a grant pool, not an annual allocation, and not an amount available to Wakeel. The platform's 189 deals are not necessarily Wakeel-eligible transactions.
+
+### B. Partnerships for Sustainable Development
+
+**Official portal:** https://mped.gov.eg/InitiativeDevelopment?formType=Project&lang=en
+
+This is a route for aligning Wakeel's public-benefit components with Egypt Vision 2030 and the SDGs, and for communicating proposed initiatives to government, private-sector, civil-society and development-partner stakeholders. Position Wakeel as a proposed partnership/pilot with a measurable development contribution, not as an already approved government programme.
+
+### C. Regional / Local Sustainable Development Partnerships
+
+**Official portal:** https://mped.gov.eg/RegionalDevelopmentPartnerships?lang=en
+
+Relevant for the project's governorate-level implementation: artisan clusters, women-led cooperatives, local producers, NGOs, universities, banks and local private-sector partners. It can help identify genuine local implementing organisations and connect the project to local development priorities. It is a partnership channel, not a published grant award.
+
+### D. NWFE — Country Platform for Water, Food and Energy
+
+**Official portal:** https://moic.gov.eg/page/nwfe
+
+NWFE is a national climate-finance and investment platform. Ministry communications have reported approximately USD 5bn in concessional finance mobilised for private-sector renewable-energy projects and national-grid investment. This is **not** a general fund for Wakeel or export marketing. Potential relevance is indirect: eligible manufacturers in Wakeel's supplier network may pursue clean-energy, resource-efficiency or climate-aligned industrial investments through the applicable accredited and financial channels. Do not include NWFE's national headline in Wakeel's fundraising total.
+
+### E. Development Partners Group and country partnership programmes
+
+The Ministry coordinates with bilateral and multilateral partners, including the EU, World Bank Group, EBRD, EIB, AfDB, IFC, GIZ, UNDP, UN Women, UNIDO, JICA, GEF and others. The partner directory is a mapping tool, not a list of open grants. Use it to identify country-programme managers and relevant calls, while respecting each institution's lead-applicant, country, procurement and accredited-entity rules. [Ministry partner directory](https://moic.gov.eg/partners).
+
+### F. National financing context — not Wakeel's available funding
+
+The Ministry's 2025 Annual Report says it mobilised approximately **USD 2.9bn in concessional financing for the private sector and nearly USD 300m in development grants** during 2025, while the cumulative private-sector concessional-finance total reached approximately USD 17bn since 2020. These are national economy-wide outcomes, across sectors and beneficiaries. They demonstrate the scale of Egypt's development-finance ecosystem but must not be counted as Wakeel funding. [Ministry 2025 Annual Report summary](https://mped.gov.eg/singlenews?id=6955&lang=en).
+
+---
+
+## 3B. Wakeel funding pipeline — gross opportunity sizing, not a forecast
+
+Based on the individually quantified calls screened in this map as of 19 November 2026, the visible gross funding envelope is:
+
+| Opportunity | Published maximum / range | Treatment in Wakeel pipeline |
+|---|---:|---|
+| develoPPP Ventures Egypt | EUR 100,000 | Catalytic matching co-financing for an eligible for-profit start-up; requires at least equivalent matching capital. Not a standalone grant. |
+| IKI Small Grants 2026 | EUR 60,000–200,000 | Non-profit environmental/community work package through an eligible local organisation. |
+| IKI Medium Grants 2026 | EUR 300,000–800,000 | Climate/green-skills work package led by an eligible Germany-based organisation with Egyptian partners. |
+| Egyptian-Spanish STDF Call 11 | Up to EUR 150,000 for the Egyptian side | Industrial R&D / technology-transfer project led through eligible Egyptian research and industrial partners. |
+
+**Arithmetic gross pipeline: EUR 610,000–1,250,000.** This is the sum of the four programme-level amounts above, assuming separate eligible applications and non-overlapping work packages. It is a screening ceiling, not a probability-weighted forecast, not an award, and not cash committed to Wakeel. The develoPPP contribution is matching finance and requires separate matching capital; STDF supports qualifying R&D rather than general platform operations. IKI grants must be delivered by eligible non-profit/consortium applicants under their respective rules.
+
+### Recommended government-facing planning scenarios
+
+- **Secured funding today:** EUR 0 until award letters and effective grant agreements are obtained.
+- **Near-term application pipeline:** EUR 610k–1.25m gross programme envelope, subject to eligibility, competition, partner formation, deadlines and approved budgets.
+- **Prudent budgeting:** Do not book the gross pipeline as revenue or use it to guarantee public costs. Build the pilot in phases and authorise each cost only after the relevant grant agreement, eligible-cost confirmation and cash-flow mechanism are in place.
+- **HAFIZ / Ministry route:** Additional opportunities may be found through the 661 calls/opportunities and 4,100 tenders currently displayed, but no extra amount is added to the total because the portal does not publish one consolidated Wakeel-addressable grant pool and many entries are tenders, loans, advisory services or programmes already listed above.
+
+### Why the national totals are excluded
+
+The USD 17bn HAFIZ headline and the Ministry's USD 2.9bn 2025 concessional-finance figure are national aggregates. They include financing intermediated through banks and financial institutions, loans, credit lines, guarantees and other instruments. The nearly USD 300m of 2025 development grants are also not earmarked for Wakeel. Adding these figures to the EUR 610k–1.25m opportunity pipeline would materially overstate the project's potential funding.
+
 ## 4. Recommended funding architecture for Wakeel
 
 | Work package | Public-benefit output | Primary funding route | Likely eligible applicant / partner |
