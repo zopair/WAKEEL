@@ -11,7 +11,7 @@
 - **Circular bio-based pilot:** BIOECONOMY GIANTS Open Call II, with eligible consortium, primary producer and TRL 6–8.
 - **Research / digital innovation:** Horizon Europe under Egypt's associated-country status, subject to each call.
 
-## 2. Current opportunities
+## 2. Published calls at the research cut-off
 
 ### develoPPP Ventures — Egypt
 **Status:** Egypt window published 15 November–31 December 2026. **Support:** €100,000 non-dilutive under a matching-funds model; confirm the exact matching threshold in the current official conditions before any future application. For innovative, privately owned, for-profit Egyptian start-ups with proof of concept, first operating revenue, viable business/financial plan and at least one annual financial statement. Funds support local scaling; start-up formation is not eligible.  
