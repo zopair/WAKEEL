@@ -39,8 +39,9 @@ Egypt's non-oil exports reached **USD 48.567bn in 2025**, up from USD 41.507bn i
 
 The 15% scenario implies approximately USD 7.285bn in additional national non-oil exports arithmetically. It is not guaranteed or automatically attributable to Wakeel.
 
-## Interactive WAKEEL Lite Prototype
-- [Open the bilingual interactive prototype](prototype/index.html) — Arabic RTL / English LTR, animated Egyptian flag, demand discovery, supplier matching, simulated deal lifecycle and commission calculator.
+## Website and Interactive Prototypes
+- [Open the WAKEEL Export homepage](index.html) — the current bilingual national initiative portal (Arabic RTL / English LTR).
+- [Open WAKEEL Lite prototype](prototype/index.html) — the separate interactive product-flow demonstration with demand discovery, supplier matching, simulated deal lifecycle and commission calculator.
 - Mobile-first Lite PWA with an offline app-shell cache after the first successful visit.
 - Silent 32-second product walkthrough video is supplied separately with this prototype delivery.
 - All displayed buyers, suppliers, metrics and transactions are illustrative. No live banking, customs, KYC, export or logistics integrations are claimed.
@@ -58,7 +59,7 @@ The 15% scenario implies approximately USD 7.285bn in additional national non-oi
 No credentials, API keys, server, or paid services are required for the static prototype.
 
 ## Deployment
-The repository is structured for static hosting such as GitHub Pages. Hosting is not active until repository Pages settings and a live deployment are verified. The interface is a demonstration, not an operational export platform.
+The root `index.html` is the current public-facing homepage source. The separate `prototype/index.html` remains the WAKEEL Lite product-flow demo. A live public URL and deployment status must be verified from repository Pages settings and a successful deployment; a repository-relative link alone does not establish that hosting is active. The interface is a demonstration, not an operational export platform.
 
 ## Proof of Concept & Enterprise Customization Readiness
 | Area | Status |
